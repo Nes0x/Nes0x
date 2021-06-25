@@ -14,10 +14,7 @@
   
   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@4623e552-ebbf-4682-81e6-393a2b916c21/be2b227c-a295-4ef9-ac4b-d99468a23c80.svg" /></a>
   
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@4623e552-ebbf-4682-81e6-393a2b916c21/42aadc63-b65f-4dfc-836e-d2abe16ef980.png" /></a>
-  
-  
-  <figure><embed src="https://wakatime.com/share/@4623e552-ebbf-4682-81e6-393a2b916c21/be2b227c-a295-4ef9-ac4b-d99468a23c80.svg"></embed></figure>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@4623e552-ebbf-4682-81e6-393a2b916c21/be2b227c-a295-4ef9-ac4b-d99468a23c80.svg" /></a>
   
 
   ## My most used languages.
