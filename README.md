@@ -16,6 +16,10 @@
   
   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@4623e552-ebbf-4682-81e6-393a2b916c21/ce6b6aa3-f79e-4c3e-b8ec-85c9a93edb77.png" /></a>
   
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@4623e552-ebbf-4682-81e6-393a2b916c21/3726842f-ed5e-45ff-9a47-1d4c1cd028fb.png" /></a>
+  
+  
+  
 
   ## My most used languages.
 
