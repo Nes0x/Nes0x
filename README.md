@@ -28,8 +28,6 @@
   
   
   ## My tools and languages.
- 
-  ![StackOverflow](https://img.shields.io/badge/Stack_Overflow-3376AB?logo=stack-overflow&logoColor=white) - best site forever 
 
   ![JavaTool](https://img.shields.io/badge/JetBrains-IntelliJ_IDEA-3376AB?logo=IntelliJIDEA&logoColor=white) - IDE for Java
   
@@ -37,7 +35,10 @@
   
   ![PythonLanguage](https://img.shields.io/badge/Python-3376AB?logo=python&logoColor=white) - my favourite language
 
-  ![JavaLanguage](https://img.shields.io/badge/Java-3376AB?logo=java&logoColor=white) - best language 
+  ![JavaLanguage](https://img.shields.io/badge/Java-3376AB?logo=java&logoColor=white) - best language
+
+  ![StackOverflow](https://img.shields.io/badge/Stack_Overflow-3376AB?logo=stack-overflow&logoColor=white) - best site forever 
+
   
   ## Socials.
   ![YouTube](https://img.shields.io/badge/Youtube-ED1C24?logo=youtube&logoColor=white) - [click](https://m.youtube.com/channel/UC6ytYclQPwHrzagzTBfZjUQ)
