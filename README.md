@@ -1,8 +1,8 @@
-# 👋 Hi! I am Nes0x and that's a bit from me:
+# 👋 Hi! I am Nes0x and this is informations about me:
 
 👨‍💻 > I'm currently learning Python and Java 
 
-📃 > My discord is: Nes0x#1337
+📃 > My discord: Nes0x#1337
 
 ❤️ > I love programming, listen to music and playing in video games
 
