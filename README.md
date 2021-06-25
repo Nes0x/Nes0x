@@ -13,6 +13,9 @@
   ## Stats of programming. 
   
   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@4623e552-ebbf-4682-81e6-393a2b916c21/1a845096-a55e-4a26-81f2-0f15d815354b.png" /></a>
+  
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@4623e552-ebbf-4682-81e6-393a2b916c21/42aadc63-b65f-4dfc-836e-d2abe16ef980.png" /></a>
+  
 
   ## My most used languages.
 
