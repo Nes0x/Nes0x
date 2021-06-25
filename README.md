@@ -12,7 +12,7 @@
   
   ## Stats of programming. 
   
-  ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Nes0x)
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@4623e552-ebbf-4682-81e6-393a2b916c21/4060329d-f19e-4f2c-8b13-d5dd03f4ec86.png" /></a>
 
   ## My most used languages.
 
