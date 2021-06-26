@@ -46,6 +46,8 @@
 
   ![StackOverflow](https://img.shields.io/badge/Stack_Overflow-3376AB?logo=stack-overflow&logoColor=white) - best site forever 
 
+  ![Trello](https://img.shields.io/badge/Trello-3376AB?logo=Trello&logoColor=white) - for project management
+
   
   ## Socials.
   ![YouTube](https://img.shields.io/badge/Youtube-ED1C24?logo=youtube&logoColor=white) - [click](https://m.youtube.com/channel/UC6ytYclQPwHrzagzTBfZjUQ)
