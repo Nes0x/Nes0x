@@ -1,6 +1,8 @@
 # 👋 Hi! I am Nes0x and this is informations about me:
 
-👨‍💻 > I'm currently learning Python and Java (I'm currently learn to make plugins for Minecraft)
+👨‍💻 > I'm currently learning Java and creating plugins for Minecraft
+
+👨‍💻 > I'm know Python at the primary level
 
 📃 > My discord: Nes0x#1337
 
