@@ -2,7 +2,7 @@
 
 👨‍💻 > I'm currently learning Java and creating plugins for Minecraft
 
-👨‍💻 > I'm know Python at the primary level
+👨‍💻 > I'm know only basics as well
 
 📃 > My discord: Nes0x#1337
 
