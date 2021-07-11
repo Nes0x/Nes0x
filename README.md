@@ -1,6 +1,6 @@
 # 👋 Hi! I am Nes0x and this is informations about me:
 
-👨‍💻 > I'm currently learning Java and creating plugins for Minecraft
+👨‍💻 > I'm currently learning Java and spigot API
 
 👨‍💻 > I'm know only basics as well
 
