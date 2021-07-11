@@ -44,7 +44,7 @@
   
   ![PythonLanguage](https://img.shields.io/badge/Python-3376AB?logo=python&logoColor=white) - best language
 
-  ![JavaLanguage](https://img.shields.io/badge/Java-3376AB?logo=java&logoColor=white) - my favourite langugage 
+  ![JavaLanguage](https://img.shields.io/badge/Java-3376AB?logo=java&logoColor=white) - my favourite language
 
   ![StackOverflow](https://img.shields.io/badge/Stack_Overflow-3376AB?logo=stack-overflow&logoColor=white) - best site forever 
 
