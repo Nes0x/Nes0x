@@ -10,7 +10,7 @@
 
 
 <details>
-  <summary>Informations of me...</summary>
+  <summary>More informations...</summary>
   
   ## Stats of programming. 
   
