@@ -1,14 +1,14 @@
 # 👋 Hi! I am Nes0x and this is informations about me:
 
-👨‍💻 > I'm currently learning Java and spigot API
+> I'm currently learning Java and spigot API
 
-👨‍💻 > I'm know python, but only basics
+> I'm know python, but only basics
 
-📃 > My discord: Nes0x#1337
+> My discord: Nes0x#1337
 
-📃 > My discord server for programming: https://discord.gg/DyUztQBECF
+> My discord server for programming: https://discord.gg/DyUztQBECF
 
-❤️ > I love programming, listen to music and playing in video games
+> I love programming, listen to music and playing in video games
 
 
 <details>
