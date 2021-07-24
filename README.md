@@ -6,6 +6,8 @@
 
 📃 > My discord: Nes0x#1337
 
+📃 > My discord for programming: https://discord.gg/DyUztQBECF
+
 ❤️ > I love programming, listen to music and playing in video games
 
 
