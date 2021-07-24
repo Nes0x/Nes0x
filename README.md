@@ -6,7 +6,7 @@
 
 > My discord: Nes0x#1337
 
-> My discord server for programming: https://discord.gg/DyUztQBECF
+> My discord server for programming: [click](https://discord.gg/DyUztQBECF)
 
 > I love programming, listen to music and playing in video games
 
