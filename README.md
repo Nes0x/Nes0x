@@ -2,7 +2,7 @@
 
 > I'm currently learning Java and spigot API
 
-> I'm know python, but only basics
+> I know python, but only basics
 
 > My discord: Nes0x#1337
 
