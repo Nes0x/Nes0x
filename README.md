@@ -4,7 +4,7 @@
 
 > I know python, but only basics
 
-> My discord: Nes0x#1337
+> My discord: Nes0x#7777
 
 > My discord server for programming: [click](https://discord.gg/DyUztQBECF)
 
