@@ -1,6 +1,8 @@
 # 👋 Hi! I am Nes0x and this is informations about me:
 
-> I'm currently learning Java and spigot API
+> I'm currently learning Java and spigot API 
+
+> In the future, I plan to learn how to create websites
 
 > I know python, but only basics
 
@@ -8,7 +10,7 @@
 
 > My discord server for programming: [click](https://discord.gg/DyUztQBECF)
 
-> I love programming, listen to music and playing in video games
+> I love programming, listen to music, sleeping and eating 
 
 
 <details>
