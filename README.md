@@ -1,6 +1,6 @@
 # 👋 Hi! I am Nes0x and this is informations about me:
 
-> I'm currently learning Java and spigot API 
+> I'm currently learning Java
 
 > In the future, I plan to learn how to create websites
 
