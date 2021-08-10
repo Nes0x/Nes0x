@@ -10,7 +10,7 @@
 
 > My discord server for programming: [click](https://discord.gg/DyUztQBECF)
 
-> I love programming, listen to music, sleeping and eating 
+> I like programming, listen to music, sleeping and eating
 
 
 <details>
