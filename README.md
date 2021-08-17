@@ -1,8 +1,6 @@
 # 👋 Hi! I am Nes0x and this is informations about me:
 
-> I'm currently learning Java
-
-> In the future, I plan to learn how to create websites
+> I'm currently learning Java and Frontend(HTML, CSS, JS)
 
 > I know python, but only basics
 
