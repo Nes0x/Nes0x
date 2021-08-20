@@ -42,7 +42,7 @@
 
   ![JavaTool](https://img.shields.io/badge/JetBrains-IntelliJ_IDEA-3376AB?logo=IntelliJIDEA&logoColor=white) - IDE for Java
   
-  ![PythonTool](https://img.shields.io/badge/Microsoft-Visual_Studio_Code-3376AB?logo=VisualStudioCode&logoColor=white) - for Python
+  ![PythonTool](https://img.shields.io/badge/Microsoft-Visual_Studio_Code-3376AB?logo=VisualStudioCode&logoColor=white) - for Python and frontend 
   
   ![PythonLanguage](https://img.shields.io/badge/Python-3376AB?logo=python&logoColor=white) - best language
 
