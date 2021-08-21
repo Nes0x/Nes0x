@@ -1,5 +1,7 @@
 # 👋 Hi! I am Nes0x and this is informations about me:
 
+> [My site](https://nesox.cf)
+
 > I'm currently learning Java and Frontend(HTML, CSS, JS)
 
 > I know python, but only basics
@@ -7,8 +9,6 @@
 > My discord: Nes0x#7777
 
 > My discord server for programming: [click](https://discord.gg/DyUztQBECF)
-
-> [My site](https://nesox.cf) -> soon
 
 > I like programming, listen to music, sleeping and eating
 
