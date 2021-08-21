@@ -1,6 +1,6 @@
 # 👋 Hi! I am Nes0x and this is informations about me:
 
-> [My site](https://nesox.cf)
+> [My website](https://nesox.cf)
 
 > I'm currently learning Java and Frontend(HTML, CSS, JS)
 
