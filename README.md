@@ -8,6 +8,8 @@
 
 > My discord server for programming: [click](https://discord.gg/DyUztQBECF)
 
+> [My site](https://nesox.cf) -> soon
+
 > I like programming, listen to music, sleeping and eating
 
 
