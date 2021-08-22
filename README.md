@@ -46,13 +46,13 @@
   
   ![PythonTool](https://img.shields.io/badge/Microsoft-Visual_Studio_Code-3376AB?logo=VisualStudioCode&logoColor=lightblue) - for Python, HTML, CSS and JS
   
-  ![PythonLanguage](https://img.shields.io/badge/Python-3376AB?logo=python&logoColor=blue) - best language
+  ![PythonLanguage](https://img.shields.io/badge/Python-3376AB?logo=python&logoColor=lightblue) - best language
 
   ![JavaLanguage](https://img.shields.io/badge/Java-3376AB?logo=java&logoColor=orange) - my favourite language
 
-  ![HTML](https://img.shields.io/badge/HTML-3376AB?logo=HTML5&logoColor=orange) - > <body> </body> 
+  ![HTML](https://img.shields.io/badge/HTML-3376AB?logo=HTML5&logoColor=orange) - <head> <body>
 
-  ![CSS](https://img.shields.io/badge/CSS-3376AB?logo=CSS3&logoColor=blue) - The colors
+  ![CSS](https://img.shields.io/badge/CSS-3376AB?logo=CSS3&logoColor=lightblue) - The colors
 
   ![JS](https://img.shields.io/badge/JavaScript-3376AB?logo=JavaScript&logoColor=yellow) - animations
 
