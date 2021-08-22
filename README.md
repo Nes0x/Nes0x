@@ -48,7 +48,13 @@
   
   ![PythonLanguage](https://img.shields.io/badge/Python-3376AB?logo=python&logoColor=white) - best language
 
-  ![JavaLanguage](https://img.shields.io/badge/Java-3376AB?logo=java&logoColor=white) - my favourite language
+  ![JavaLanguage](https://img.shields.io/badge/Java-3376AB?logo=java&logoColor=orange) - my favourite language
+
+  ![HTML](https://img.shields.io/badge/HTML-3376AB?logo=HTML5&logoColor=orange) - <body> </body> 
+
+  ![CSS](https://img.shields.io/badge/CSS-3376AB?logo=CSS3&logoColor=blue) - The colors
+
+  ![JS](https://img.shields.io/badge/JavaScript-3376AB?logo=JavaScript&logoColor=yellow) - animations
 
   ![StackOverflow](https://img.shields.io/badge/Stack_Overflow-3376AB?logo=stack-overflow&logoColor=white) - best site forever 
 
