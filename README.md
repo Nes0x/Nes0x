@@ -35,16 +35,16 @@
 
   ## My hardware.
 
-  ![Graphic Card](https://img.shields.io/badge/NVIDIA-GTX_1050-76900?logo=nvidia&logoColor=white)
+  ![Graphic Card](https://img.shields.io/badge/NVIDIA-GTX_1050-76900?logo=nvidia&logoColor=green)
 
-  ![Cpu](https://img.shields.io/badge/AMD-Ryzen_5_1400-ED1C24?logo=amd&logoColor=white)
+  ![Cpu](https://img.shields.io/badge/AMD-Ryzen_5_1400-ED1C24?logo=amd&logoColor=orange)
   
   
   ## My tools, languages and everything.
 
-  ![JavaTool](https://img.shields.io/badge/JetBrains-IntelliJ_IDEA-3376AB?logo=IntelliJIDEA&logoColor=white) - IDE for Java
+  ![JavaTool](https://img.shields.io/badge/JetBrains-IntelliJ_IDEA-3376AB?logo=IntelliJIDEA&logoColor=black) - IDE for Java
   
-  ![PythonTool](https://img.shields.io/badge/Microsoft-Visual_Studio_Code-3376AB?logo=VisualStudioCode&logoColor=white) - for Python, HTML, CSS and JS
+  ![PythonTool](https://img.shields.io/badge/Microsoft-Visual_Studio_Code-3376AB?logo=VisualStudioCode&logoColor=lightblue) - for Python, HTML, CSS and JS
   
   ![PythonLanguage](https://img.shields.io/badge/Python-3376AB?logo=python&logoColor=blue) - best language
 
