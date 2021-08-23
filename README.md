@@ -50,7 +50,7 @@
 
   ![JavaLanguage](https://img.shields.io/badge/Java-3376AB?logo=java&logoColor=orange) - my favourite language
 
-  ![HTML](https://img.shields.io/badge/HTML-3376AB?logo=HTML5&logoColor=orange) - <head> <body>
+  ![HTML](https://img.shields.io/badge/HTML-3376AB?logo=HTML5&logoColor=orange) - head body
 
   ![CSS](https://img.shields.io/badge/CSS-3376AB?logo=CSS3&logoColor=lightblue) - The colors
 
