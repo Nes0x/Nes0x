@@ -60,6 +60,8 @@
 
   ![Trello](https://img.shields.io/badge/Trello-3376AB?logo=Trello&logoColor=lightblue) - for project management
 
+  ![Git](https://img.shields.io/badge/Git-3376AB?logo=Git&logoColor=orange) - for project management
+
   
   ## Socials.
   ![YouTube](https://img.shields.io/badge/Youtube-ED1C24?logo=youtube&logoColor=white) - [click](https://m.youtube.com/channel/UC6ytYclQPwHrzagzTBfZjUQ)
