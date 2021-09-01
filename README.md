@@ -60,7 +60,7 @@
 
   ![Trello](https://img.shields.io/badge/Trello-3376AB?logo=Trello&logoColor=lightblue) - for project management
 
-  ![Git](https://img.shields.io/badge/Git-3376AB?logo=Git&logoColor=orange) - for project management
+  ![Git](https://img.shields.io/badge/Git-3376AB?logo=Git&logoColor=orange) - version control 
 
   
   ## Socials.
