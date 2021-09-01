@@ -1,4 +1,4 @@
-# 👋 Hi! I am Nes0x and this is informations about me:
+# 👋 Hi! I am Nes0x and here are informations about me:
 
 > [My website](https://nesox.cf)
 
