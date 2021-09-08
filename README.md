@@ -2,9 +2,9 @@
 
 > [My website](https://nesox.cf)
 
-> I'm currently learning Java and Frontend(HTML, CSS, JS)
+> I'm currently learning Frontend(HTML, CSS, JS)
 
-> I know python, but only basics
+> I know python, but only basics and Java 
 
 > My discord: Nes0x#7777
 
