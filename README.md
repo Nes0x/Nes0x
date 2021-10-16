@@ -4,7 +4,7 @@
 
 > I'm currently learning Frontend(HTML, CSS, JS)
 
-> I know: 
+> I know
 Java
 Python, but only basics
 
