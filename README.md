@@ -54,7 +54,7 @@
 
   ![HTML](https://img.shields.io/badge/HTML-3376AB?logo=HTML5&logoColor=orange) - head body
 
-  ![CSS](https://img.shields.io/badge/CSS-3376AB?logo=CSS3&logoColor=lightblue) - The colors
+  ![CSS](https://img.shields.io/badge/CSS-3376AB?logo=CSS3&logoColor=lightblue) - colors
 
   ![JS](https://img.shields.io/badge/JavaScript-3376AB?logo=JavaScript&logoColor=yellow) - animations
 
