@@ -4,7 +4,9 @@
 
 > I'm currently learning Frontend(HTML, CSS, JS)
 
-> I know Java and Python, but only basics
+> I know Java
+
+> i know Python but only basics
 
 > My discord: Nes0x#7777
 
