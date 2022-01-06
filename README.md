@@ -2,7 +2,7 @@
 
 > [My website](https://nesox.cf)
 
-> I'm currently learning Frontend(HTML, CSS, JS)
+> I'm currently learning Spring and Frontend(HTML, CSS, JS)
 
 > I know Java
 
