@@ -14,6 +14,11 @@
 
 > I like programming, listen to music, sleeping and eating
 
+## Views on profile
+
+<img src="https://profile-counter.glitch.me/Nes0x/count.svg" alt="Nes0x"/>
+
+
 
 <details>
   <summary>More informations...</summary>
