@@ -2,11 +2,11 @@
 
 > [My website](https://nesox.cf)
 
-> I'm currently learning Spring and Frontend(HTML, CSS, JS)
+> I'm currently learning Frontend(HTML, CSS, JS)
 
-> I know Java
+> I know Java and Spring framework
 
-> i know Python but only basics
+> I know Python but only basics
 
 > My discord: Nes0x#3507
 
@@ -14,15 +14,17 @@
 
 > I like programming, listen to music, sleeping and eating
 
-## Views on profile
-
-<img src="https://profile-counter.glitch.me/Nes0x/count.svg" alt="Nes0x"/>
-
-
 
 <details>
   <summary>More informations...</summary>
+
+
+  ## Views on profile
+
+  <img src="https://profile-counter.glitch.me/Nes0x/count.svg" alt="Nes0x"/>
+
   
+
   ## Stats of programming. 
   
   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@4623e552-ebbf-4682-81e6-393a2b916c21/148ae338-06ef-4d82-85d1-cec18b25a335.png" /></a>
@@ -30,7 +32,6 @@
   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@4623e552-ebbf-4682-81e6-393a2b916c21/ce6b6aa3-f79e-4c3e-b8ec-85c9a93edb77.png" /></a>
   
   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@4623e552-ebbf-4682-81e6-393a2b916c21/3726842f-ed5e-45ff-9a47-1d4c1cd028fb.png" /></a>
-  
   
   
 
@@ -49,13 +50,15 @@
   
   ## My tools, languages and everything.
 
-  ![JavaTool](https://img.shields.io/badge/JetBrains-IntelliJ_IDEA-3376AB?logo=IntelliJIDEA&logoColor=black) - IDE for Java
+  ![IDE](https://img.shields.io/badge/JetBrains-IntelliJ_IDEA-3376AB?logo=IntelliJIDEA&logoColor=black) - IDE for Java
   
-  ![PythonTool](https://img.shields.io/badge/Microsoft-Visual_Studio_Code-3376AB?logo=VisualStudioCode&logoColor=lightblue) - for Python, HTML, CSS and JS
+  ![VisualStudioCode](https://img.shields.io/badge/Microsoft-Visual_Studio_Code-3376AB?logo=VisualStudioCode&logoColor=lightblue) - for Python
   
-  ![PythonLanguage](https://img.shields.io/badge/Python-3376AB?logo=python&logoColor=lightblue) - best language
+  ![Python](https://img.shields.io/badge/Python-3376AB?logo=python&logoColor=lightblue) - best language
 
-  ![JavaLanguage](https://img.shields.io/badge/Java-3376AB?logo=java&logoColor=orange) - my favourite language
+  ![Java](https://img.shields.io/badge/Java-3376AB?logo=java&logoColor=orange) - my favourite language
+
+  ![Spring](https://img.shields.io/badge/Spring-3376AB?logo=spring&logoColor=green) - framework for backend
 
   ![HTML](https://img.shields.io/badge/HTML-3376AB?logo=HTML5&logoColor=orange) - head body
 
