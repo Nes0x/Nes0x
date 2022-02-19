@@ -50,9 +50,11 @@
   
   ## My tools, languages and everything.
 
-  ![IDE](https://img.shields.io/badge/JetBrains-IntelliJ_IDEA-3376AB?logo=IntelliJIDEA&logoColor=black) - IDE for Java
+  ![IntellijIdea](https://img.shields.io/badge/JetBrains-IntelliJ_IDEA-3376AB?logo=IntelliJIDEA&logoColor=black) - IDE for Java
   
-  ![VisualStudioCode](https://img.shields.io/badge/Microsoft-Visual_Studio_Code-3376AB?logo=VisualStudioCode&logoColor=lightblue) - for Python
+  ![WebStorm](https://img.shields.io/badge/JetBrains-WebStorm-3376AB?logo=webstorm&logoColor=black) - IDE for frontend
+
+  ![VisualStudioCode](https://img.shields.io/badge/Microsoft-Visual_Studio_Code-3376AB?logo=VisualStudioCode&logoColor=lightblue) - for Python or frontend but rarely. 
   
   ![Python](https://img.shields.io/badge/Python-3376AB?logo=python&logoColor=lightblue) - best language
 
