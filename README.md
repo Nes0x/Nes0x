@@ -6,7 +6,7 @@
 
 > I know Java and Spring framework
 
-> I know Python but only basics
+> I know Python, golang but only basics
 
 > My discord: Nes0x#3507
 
@@ -57,6 +57,8 @@
   ![VisualStudioCode](https://img.shields.io/badge/Microsoft-Visual_Studio_Code-3376AB?logo=VisualStudioCode&logoColor=lightblue) - for Python or frontend but rarely. 
   
   ![Python](https://img.shields.io/badge/Python-3376AB?logo=python&logoColor=lightblue) - best language
+  
+  ![Golang](https://img.shields.io/badge/Golang-3376AB?logo=go&logoColor=white) - interesting language
 
   ![Java](https://img.shields.io/badge/Java-3376AB?logo=java&logoColor=orange) - my favourite language
 
