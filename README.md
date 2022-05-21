@@ -2,9 +2,9 @@
 
 > [My website](https://nesox.cf)
 
-> I'm currently learning Frontend(HTML, CSS, JS) and rust
+> I'm currently learning Frontend(HTML, CSS, JS) and rust lang
 
-> I know Java, Spring, JDA, spigot-api and python but only basics
+> I know java, spring, JDA, spigot-api and python but only basics
 
 > My discord: Nes0x#3507
 
