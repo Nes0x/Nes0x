@@ -56,7 +56,7 @@
   
   ![Python](https://img.shields.io/badge/Python-3376AB?logo=python&logoColor=lightblue) - best language
 
-  ![Java](https://img.shields.io/badge/Java-3376AB?logo=java&logoColor=orange) - my favourite language
+  ![Java](https://img.shields.io/badge/Java-3376AB?logo=java&logoColor=orange) - my favorite language
 
   ![Spring](https://img.shields.io/badge/Spring-3376AB?logo=spring&logoColor=green) - framework for backend
 
