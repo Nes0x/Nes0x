@@ -10,8 +10,6 @@
 
 > My discord: Nes0x#3507
 
-> My discord server for programming: [click](https://discord.gg/DyUztQBECF)
-
 > I like programming, listen to music, sleeping and eating
 
 
