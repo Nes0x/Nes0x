@@ -2,7 +2,7 @@
 
 > [My website](https://nesox.cf)
 
-> I'm currently learning Frontend(HTML, CSS, JS) and rust lang
+> I currently learning Frontend(HTML, CSS, JS) and rust lang
 
 > I know java, spring, JDA, spigot-api and python but only basics
 
