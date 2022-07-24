@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Nes0x
 
-> [My website](https://nesox.cf)
+> [My website](https://nes0x.cf)
 
 > I'm currently learning Frontend(HTML, CSS, JS) and rust lang
 
