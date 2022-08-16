@@ -2,7 +2,7 @@
 
 > [My website](https://nes0x.cf)
 
-> I'm currently learning Frontend(HTML, CSS, JS) and rust lang
+> I'm currently learning Frontend(HTML, CSS, JS)
 
 > I know java, spring, JDA, spigot-api and python but only basics
 
@@ -48,9 +48,7 @@
 
   ![IntellijIdea](https://img.shields.io/badge/JetBrains-IntelliJ_IDEA-3376AB?logo=IntelliJIDEA&logoColor=black) - IDE for Java
   
-  ![WebStorm](https://img.shields.io/badge/JetBrains-WebStorm-3376AB?logo=webstorm&logoColor=black) - IDE for frontend
-
-  ![VisualStudioCode](https://img.shields.io/badge/Microsoft-Visual_Studio_Code-3376AB?logo=VisualStudioCode&logoColor=lightblue) - for Python or frontend but rarely. 
+  ![WebStorm](https://img.shields.io/badge/JetBrains-WebStorm-3376AB?logo=webstorm&logoColor=black) - IDE for frontend 
   
   ![Python](https://img.shields.io/badge/Python-3376AB?logo=python&logoColor=lightblue) - best language
 
