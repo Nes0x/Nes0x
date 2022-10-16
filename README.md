@@ -2,7 +2,7 @@
 
 > [My website](https://nes0x.cf)
 
-> I'm currently learning Frontend(HTML, CSS, JS)
+> I'm currently learning android
 
 > I know java, spring, JDA, spigot-api and python but only basics
 
