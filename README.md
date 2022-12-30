@@ -2,9 +2,9 @@
 
 > [My website](https://nes0x.cf)
 
-> I'm currently learning android
+> I'm currently learning c# 
 
-> I know java, spring, JDA, spigot-api and python but only basics
+> I know java, JDA, spigot-api and python but only basics
 
 > My discord: ! Nes0x#0034
 
