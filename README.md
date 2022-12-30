@@ -47,10 +47,10 @@
   ## My tools, languages and everything.
 
   ![IntellijIdea](https://img.shields.io/badge/JetBrains-IntelliJ_IDEA-3376AB?logo=IntelliJIDEA&logoColor=black) - IDE for Java
+
+  ![Rider](https://img.shields.io/badge/JetBrains-Rider-3376AB?logo=rider&logoColor=black) - IDE for C#
   
   ![WebStorm](https://img.shields.io/badge/JetBrains-WebStorm-3376AB?logo=webstorm&logoColor=black) - IDE for frontend 
-  
-  ![Python](https://img.shields.io/badge/Python-3376AB?logo=python&logoColor=lightblue) - best language
 
   ![Java](https://img.shields.io/badge/Java-3376AB?logo=java&logoColor=orange) - my favorite language
 
