@@ -54,8 +54,6 @@
 
   ![Java](https://img.shields.io/badge/Java-3376AB?logo=java&logoColor=orange) - my favorite language
 
-  ![Spring](https://img.shields.io/badge/Spring-3376AB?logo=spring&logoColor=green) - framework for backend
-
   ![HTML](https://img.shields.io/badge/HTML-3376AB?logo=HTML5&logoColor=orange) - head body
 
   ![CSS](https://img.shields.io/badge/CSS-3376AB?logo=CSS3&logoColor=lightblue) - colors
