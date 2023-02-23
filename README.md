@@ -44,7 +44,7 @@
   ![Cpu](https://img.shields.io/badge/AMD-Ryzen_5_1400-ED1C24?logo=amd&logoColor=orange)
   
   
-  ## My tools, languages and everything.
+  ## My tools, and other stuffs.
 
   ![IntellijIdea](https://img.shields.io/badge/JetBrains-IntelliJ_IDEA-3376AB?logo=IntelliJIDEA&logoColor=black) - IDE for Java
 
