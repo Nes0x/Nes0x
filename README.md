@@ -2,13 +2,13 @@
 
 > [My website](https://nes0x.cf)
 
-> I'm currently learning c# 
+> I'm currently learning c# and frontend 
 
 > I know java, JDA, spigot-api and python but only basics
 
 > My discord: ! Nes0x#0034
 
-> I like programming, listen to music, sleeping and eating
+> I like also listen to music, sleeping and eating
 
 
 <details>
@@ -52,21 +52,5 @@
   
   ![WebStorm](https://img.shields.io/badge/JetBrains-WebStorm-3376AB?logo=webstorm&logoColor=black) - IDE for frontend 
 
-  ![Java](https://img.shields.io/badge/Java-3376AB?logo=java&logoColor=orange) - my favorite language
-
-  ![HTML](https://img.shields.io/badge/HTML-3376AB?logo=HTML5&logoColor=orange) - head body
-
-  ![CSS](https://img.shields.io/badge/CSS-3376AB?logo=CSS3&logoColor=lightblue) - colors
-
-  ![JS](https://img.shields.io/badge/JavaScript-3376AB?logo=JavaScript&logoColor=yellow) - animations
-
-  ![StackOverflow](https://img.shields.io/badge/Stack_Overflow-3376AB?logo=stack-overflow&logoColor=orange) - best site forever 
-
-  ![Trello](https://img.shields.io/badge/Trello-3376AB?logo=Trello&logoColor=lightblue) - for project management
-
   ![Git](https://img.shields.io/badge/Git-3376AB?logo=Git&logoColor=orange) - version control 
-
-  
-  ## Socials.
-  ![YouTube](https://img.shields.io/badge/Youtube-ED1C24?logo=youtube&logoColor=white) - [click](https://m.youtube.com/channel/UC6ytYclQPwHrzagzTBfZjUQ)
 </details> 
