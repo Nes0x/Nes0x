@@ -1,8 +1,7 @@
 # 👋 Hi! I'm Nes0x
 
-> [My website](https://nes0x.cf)
 
-> I'm currently learning c# and frontend 
+> I'm currently learning c#, frontend, backend
 
 > I know java, JDA, spigot-api and python but only basics
 
