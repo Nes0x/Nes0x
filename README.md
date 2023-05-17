@@ -5,7 +5,7 @@
 
 > I know java, JDA, spigot-api and python but only basics
 
-> My discord: ! Nes0x#0034
+> My discord: Nes0x#0034
 
 > I like also listen to music, sleeping and eating
 
