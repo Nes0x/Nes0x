@@ -5,9 +5,9 @@
 
 > I know java, JDA, spigot-api and python but only basics
 
-> My discord: Nes0x#0034
+> My discord: Nes0x
 
-> I like also listen to music, sleeping and eating
+> I also like listen to music, sleeping and eating
 
 
 <details>
@@ -40,7 +40,7 @@
 
   ![Graphic Card](https://img.shields.io/badge/NVIDIA-GTX_1050-76900?logo=nvidia&logoColor=green)
 
-  ![Cpu](https://img.shields.io/badge/AMD-Ryzen_5_1400-ED1C24?logo=amd&logoColor=orange)
+  ![Cpu](https://img.shields.io/badge/AMD-Ryzen_5_5600-ED1C24?logo=amd&logoColor=orange)
   
   
   ## My tools, and other stuffs.
