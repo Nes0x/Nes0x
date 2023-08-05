@@ -1,7 +1,7 @@
 # 👋 Hi! I'm Nes0x
 
 
-> I'm currently learning c#, frontend, backend
+> I'm currently learning c#
 
 > I know java, JDA, spigot-api and python, but only basics
 
