@@ -3,7 +3,7 @@
 
 > I'm currently focused on programming in c# 
 
-> I had before little experience in python, rust, javascript and java
+> I before had little experience in python, rust, javascript and java
 
 > My discord: Nes0x
 
