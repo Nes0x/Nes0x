@@ -8,7 +8,3 @@
 > My discord: Nes0x
 
 > I also like listen to music, sleeping and eating
-
-## My most used languages.
-
-![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Nes0x)
